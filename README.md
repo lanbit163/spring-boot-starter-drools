@@ -42,4 +42,5 @@ Step 2. Add the dependency in the form (change version to actual commit-id you c
 [droolsupdatesite]:http://download.jboss.org/drools/release/6.2.0.Final/org.drools.updatesite/
 [droolsdownload]:http://www.drools.org/download/download.html
 
-# https://www.baeldung.com/drools-spring-integration
+# Drools Spring Integration: https://www.baeldung.com/drools-spring-integration
+# https://stackoverflow.com/questions/29650029/spring-boot-and-drools-integration
