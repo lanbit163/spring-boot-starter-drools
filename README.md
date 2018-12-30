@@ -41,3 +41,5 @@ Step 2. Add the dependency in the form (change version to actual commit-id you c
 [stackoverflow]:http://stackoverflow.com/questions/28847975/eclipse-missing-requirement-e4-rcp-patch-when-installing-properties-editor
 [droolsupdatesite]:http://download.jboss.org/drools/release/6.2.0.Final/org.drools.updatesite/
 [droolsdownload]:http://www.drools.org/download/download.html
+
+# https://www.baeldung.com/drools-spring-integration
